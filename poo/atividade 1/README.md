@@ -3,11 +3,7 @@
 Esses objetos juntam dados (atributos) e ações (métodos).
 
 ## 2) Vantagens da POO em relação à programação estruturada
-- alto reaproveitamento de código
-- organização superior através da modularidade
-- melhor separação de responsabilidade de cada parte do sistema
-- facilidade de manutenção
-- maior segurança na proteção dos dados da aplicação
+Alto reaproveitamento de código, organização superior através da modularidade, melhor separação de responsabilidade de cada parte do sistema, facilidade de manutenção e uma maior segurança na proteção dos dados da aplicação.
 
 ## 3) O que é um objeto na POO?
 Objeto é uma instância do programa que contem: atributos e métodos.
